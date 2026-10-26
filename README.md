@@ -28,7 +28,7 @@ Focused on **image optimization**, **caching**, **SEO indexing**, and **content 
 | **Milyutin Code Article Reposter for VK** | ✅ Published on WordPress.org | [WordPress.org](https://wordpress.org/plugins/milyutin-code-article-reposter-for-vk/) · [GitHub](https://github.com/milyutinkv-coder/milyutin-code-article-reposter-for-vk) |
 | **Milyutin Image Optimizer** | 🚧 In development | [GitHub](https://github.com/milyutinkv-coder/milyutin-image-optimizer) |
 | **Milyutin Instant Indexer** | 🚧 In development | [GitHub](https://github.com/milyutinkv-coder/milyutin-instant-indexer) |
-| **Milyutin Cache Optimizer** | ✅ Published on WordPress.org | [WordPress.org](https://wordpress.org/plugins/milyutin-cache-optimizer-lite/)  [GitHub](https://github.com/milyutinkv-coder/milyutin-cache-optimizer) |
+| **Milyutin Cache Optimizer** | ✅ Published on WordPress.org | [WordPress.org](https://wordpress.org/plugins/milyutin-cache-optimizer-lite/) · [GitHub](https://github.com/milyutinkv-coder/milyutin-cache-optimizer) |
 
 ## 📫 Connect with Me
 
